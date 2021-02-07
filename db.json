@@ -1340,6 +1340,69 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "ivysaur",
+      "hp": "60",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+      },
+      "id": 151
+    },
+    {
+      "name": "getu",
+      "hp": "60",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+      },
+      "id": 152
+    },
+    {
+      "name": "Ethiopia ",
+      "hp": "1000000",
+      "sprites": {
+        "front": "https://en.wikipedia.org/wiki/Flag_of_Ethiopia#/media/File:Flag_of_Ethiopia.svg",
+        "back": "https://images.app.goo.gl/FHV4EMfjBR95aRLm7"
+      },
+      "id": 153
+    },
+    {
+      "name": "getu",
+      "hp": "1000000",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+      },
+      "id": 154
+    },
+    {
+      "name": "getu",
+      "hp": "1000000",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "back": "https://images.app.goo.gl/FHV4EMfjBR95aRLm7"
+      },
+      "id": 155
+    },
+    {
+      "name": "getu",
+      "hp": "1000000",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "back": "https://images.app.goo.gl/FHV4EMfjBR95aRLm7"
+      },
+      "id": 156
+    },
+    {
+      "name": "getu",
+      "hp": "1000000",
+      "sprites": {
+        "front": "https://en.wikipedia.org/wiki/Flag_of_Ethiopia#/media/File:Flag_of_Ethiopia.svg",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+      },
+      "id": 157
     }
   ]
 }
